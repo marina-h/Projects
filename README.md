@@ -1,7 +1,9 @@
 Mega Project List
 ========
 
-**I will edit this file as I complete the projects.**
+My attempt to solve various problems from https://github.com/thekarangoel/Projects to learn Python.
+
+I will edit this file as I complete the projects.
 
 Numbers
 ---------
