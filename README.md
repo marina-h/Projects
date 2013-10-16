@@ -1,6 +1,8 @@
 Mega Project List
 ========
 
+**I will edit this file as I complete the projects.**
+
 Numbers
 ---------
 
